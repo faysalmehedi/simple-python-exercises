@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Aug 23 15:06:15 2020
+
+@author: Faysal
+"""
+
 #this program will add two number from user input
 
 num1 = int(input("Enter first number: "))

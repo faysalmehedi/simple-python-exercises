@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Aug 23 15:05:51 2020
+
+@author: Faysal
+"""
+
 #This program will use function for ading numbers
 
 def Add(num1, num2):

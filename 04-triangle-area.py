@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Aug 23 15:07:37 2020
+
+@author: Faysal
+"""
 
 # This program will calculate the area of a triangle
 
